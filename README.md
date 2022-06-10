@@ -3,7 +3,11 @@
 [ゼロから始めるGo言語](https://news.mynavi.jp/techplus/series/gogogo/)<br>
 やったことや重要だと思ったことの要約と、問題が発生した場合にどのように解決したのかを記載できればと思っています。<br>
 連載記事ごとに各フォルダ分けを行い、フォルダごとにmarkdownファイルを用意しまとめを作成します。<br>
-こちらのREADME.mdには各markdownファイルへのリンクを目次として記載していきます。
+こちらのREADME.mdには各markdownファイルへのリンクを目次として記載していきます。<br>
+****
+追記：Gitfow+PRを用いた管理を行ってみたかったためブランチを細かく分けて作成することにしました。以下のサイトを参考にブランチ管理を進めていきます。(`git flowエクステンション`を積極的に使ってみるようにする)<br>
+[【Git-Flow+PR】プロジェクトをGit-Flowに移行してみた。](https://zenn.dev/akino/articles/1dcecd60009dbb)
+
 
 ## 目次
 
